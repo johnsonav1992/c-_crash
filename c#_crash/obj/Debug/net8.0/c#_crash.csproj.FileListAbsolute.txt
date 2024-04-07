@@ -23,3 +23,4 @@
 /Users/Alex/Desktop/software-development/c#_crash/c#_crash/obj/Debug/net8.0/c#_crash.pdb
 /Users/Alex/Desktop/software-development/c#_crash/c#_crash/obj/Debug/net8.0/c#_crash.genruntimeconfig.cache
 /Users/Alex/Desktop/software-development/c#_crash/c#_crash/obj/Debug/net8.0/ref/c#_crash.dll
+/Users/Alex/Desktop/software-development/c#_crash/c#_crash/obj/Debug/net8.0/c#_crash.sourcelink.json
